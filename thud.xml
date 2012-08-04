@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><games iconpath="icons/games/" imagepath="images/games/">
     <category label="* Selected for Beta" name="selectedforbeta">
-        <game cat="Free To Play" user="eru-iluvatar" repoenabled="true" icon="lotro.png" name="lotro" image="lordoftheringsonline.jpg" label="Lord of the Rings Online" platform="Windows" publisher="Turbine" rating="8.3" uuid="" website="http://www.lotro.com" web="https://github.com/eru-iluvatar/lotro/raw/master/"/>
-        <game genre="Sci-Fi" user="eru-iluvatar" enabled="true" icon="swtor.png" image="starwarstheoldrepublic.jpg" label="Star Wars: The Old Republic" name="swtor" platform="Windows" publisher="BioWare Austin" rating="8.6" website="http://www.swtor.com/" web="https://github.com/eru-iluvatar/swtor/raw/master/"/>
+        <game cat="Free To Play" user="eru-iluvatar" hasrepo="true" icon="lotro.png" name="lotro" image="lordoftheringsonline.jpg" label="Lord of the Rings Online" platform="Windows" publisher="Turbine" rating="8.3" uuid="" website="http://www.lotro.com" web="https://github.com/eru-iluvatar/lotro/raw/master/"/>
+        <game genre="Sci-Fi" user="eru-iluvatar" hasrepo="true" icon="swtor.png" image="starwarstheoldrepublic.jpg" label="Star Wars: The Old Republic" name="swtor" platform="Windows" publisher="BioWare Austin" rating="8.6" website="http://www.swtor.com/" web="https://github.com/eru-iluvatar/swtor/raw/master/"/>
     </category>
     <category label="2.5D/2D Fantasy" name="25d2dfantasy">
         <game cat="Browser Based" genre="2.5D/2D Fantasy" icon="ddheroesofneverwinter.png" image="ddheroesofneverwinter.jpg" label="D&amp;D: Heroes of Neverwinter" name="ddheroesofneverwinter" platform="Facebook" publisher="Atari" rating="6.8" uuid="" website="http://www.facebook.com/HeroesOfNeverwinter"/>
@@ -848,7 +848,7 @@
         <game cat="MMORPG Game Engines" genre="Other" icon="no_icon.png" image="no_image.png" label="world.link game engine" name="worldlinkgameengine" platform="PC" publisher="Other" rating="5.7" uuid="" website="http://www.reincarnation-soft.com"/>
     </category>
     <category label="Sci-Fi" name="scifi">
-        <game cat="Browser Based" genre="Sci-Fi" icon="no_icon.png" image="no_image.png" label="" name="" platform="Browser" publisher="BigPoint" rating="7.7" uuid="" website="http://server.cpmstar.com/click.aspx?poolid=17199&amp;campaignid=37993&amp;creativeid=90281"/>
+        <game cat="Browser Based" genre="Sci-Fi" icon="no_icon.png" image=".jpg" label="" name="" platform="Browser" publisher="BigPoint" rating="7.7" uuid="" website="http://server.cpmstar.com/click.aspx?poolid=17199&amp;campaignid=37993&amp;creativeid=90281"/>
         <game cat="Free To Play" genre="Sci-Fi" icon="no_icon.png" image="2029online.jpg" label="2029 Online" name="2029online" platform="Windows" publisher="IGG" rating="6.8" uuid="" website="http://2029.igg.com"/>
         <game cat="Free To Play" genre="Sci-Fi" icon="no_icon.png" image="no_image.png" label="Age of Armor" name="ageofarmor" platform="PC" publisher="Snail Games" rating="8.2" uuid="" website="http://www.aoaus.com"/>
         <game cat="Browser Based" genre="Sci-Fi" icon="no_icon.png" image="no_image.png" label="Alien Adoption Agency" name="alienadoptionagency" platform="Browser" publisher="Linear Horizons" rating="6.9" uuid="" website="http://www.alienaa.com/"/>
