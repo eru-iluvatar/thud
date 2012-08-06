@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newslist>
+	<news title="Introducing THUD" source="@assets/news/thudintro.jpg" text="Read what this Beta is all about" click="browse" url="assets/html/index.html"/>
+	<news title="[6-Aug] Jade Dynasty Project started" source="games/jadedynasty.jpg" text="A first version of the JD Database is now available" click="game" game="jadedynasty"/>
+	<news title="[6-Aug] LOTRO Project Update" source="games/lordoftheringsonline.jpg" text="The LOTRO Layout database has been updated with all class skills" click="game" game="lotro"/>
+	<news title="[5-Aug] SWTOR Project Update" source="games/starwarstheoldrepublic.jpg" text="The SWTOR Database has been updated with Patch 1.3 Game data" click="game" game="swtor"/>
+	<news title="Vote for your game!" source="@assets/news/vote.jpg" text="[In development] Vote for your game to help us decide on our next game projects!" click="games"/>
+	<news title="Check the Free Trial List" source="@assets/news/freetrials.jpg" text="[In development] Want to check out a game before you subscribe? Check the free trials list!" click="games"/>
+	<news title="Check the F2P List" source="@assets/news/f2p.jpg" text="[In development] Want to play without worrying about subs? Check the F2P List!" click="games"/>
+</newslist>
